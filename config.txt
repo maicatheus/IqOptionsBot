@@ -1,0 +1,12 @@
+[GERAL] 
+seu_email_da_iq = 
+sua_senha_da_iq = 
+tipo_conta = TREINAMENTO
+payout = 30
+valor_entrada = 2
+stop_win = 50
+stop_loss = 50
+multiplicador_martingale = 2
+delay = 1
+licenca = RRRR
+
